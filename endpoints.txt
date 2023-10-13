@@ -4,7 +4,11 @@ mailer.php
 promailer.php
 hexor.php
 hb.php
+haxor.php
+bdkr.php
+bdkr27.php
 fuck.php
+codefam.php
 xz.php
 CaZaNoVa163.php
 w.php
